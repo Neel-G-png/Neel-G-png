@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Neel-G-png/AR-frame-gift">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=AR-frame-gift&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=AR-frame-gift&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
