@@ -24,11 +24,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neel-G-png&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Neel's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Neel-G-png/python-project-blueprint">
+<a href="https://github.com/Neel-G-png/Canary-The-social-media-monitor&title_color">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=Canary-The-social-media-monitor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Neel-G-png/go-project-blueprint">
+<a href="https://github.com/Neel-G-png/AR-frame-gift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=AR-frame-gift&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
