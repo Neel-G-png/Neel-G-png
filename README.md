@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Neel-G-png/Neel-G-png">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Neel-G-png&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-G-png&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Neel-G-png/Neel-G-png">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neel-G-png&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Neel's GitHub Stats" />
