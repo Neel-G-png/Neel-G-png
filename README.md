@@ -1,8 +1,8 @@
-# Hey, lovely humans of the internet! 🌐
+# Hey, Welcome to my Github! 🌐
 
 # Introduction
 
-Greetings, internet dwellers! I'm Neel Jignesh Gandhi, a software explorer and technology enthusiast currently navigating the world of computer science at NYU. With a solid two-year background in optimizing systems for logistics, I've discovered that efficiency is not just a job—it's an art and I want to become an artist.
+Greetings, internet dwellers! I'm Neel, a software explorer and technology enthusiast currently navigating the world of computer science at NYU. With a solid two-year background in optimizing systems for logistics, I've discovered that efficiency is not just a job—it's an art and I want to become an artist.
 
 Originally from Gujarat, India, I've embraced the vibrant pace of life in the city, trading the calm of Pune for the energy of the bustling metropolis. My approach to tech is a blend of precision and a touch of humor, believing that a bit of laughter can make the digital journey even more enjoyable.
 
