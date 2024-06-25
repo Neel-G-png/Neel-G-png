@@ -1,4 +1,4 @@
-# Hey, Welcome to my Github! 🌐 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+# Hey, Welcome to my Github! 🌐 ![](https://komarev.com/ghpvc/?username=Neel-G-png&color=green)
 
 # Introduction
 
