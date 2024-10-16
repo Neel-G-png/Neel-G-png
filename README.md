@@ -8,8 +8,8 @@ Originally from Gujarat, India, I’ve transitioned from the tranquil life of Pu
 
 ## Current Focus
 
-- **🔭 Current Projects:** Developing *Jot*, a cutting-edge project management tool, while actively seeking a summer internship to further expand my skill set.
-- **🌱 Currently Learning:** Diving deep into Go to broaden my programming knowledge and enhance my ability to solve distributed computing challenges.
+- **🔭 Current Projects:** Developing *Jot*, a cutting-edge project management tool, while actively seeking a winter internship and New-Grad roles in 2025 to further expand my skill set.
+- **🌱 Currently Learning:** Diving deep into Go, AWS, and Computer Vision (as a part of my courses this semester) to broaden my programming knowledge and enhance my ability to solve distributed computing challenges.
 - **👯 Open to Collaborate:** I’m eager to partner on innovative projects that drive meaningful technological change.
 - **🤔 Seeking Guidance:** Exploring best practices and advanced techniques in Go—any insights are greatly appreciated.
 - **💬 Ask Me About:** My experience in logistics optimization, software engineering, or tips on finding the best coffee spots in NYC.
