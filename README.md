@@ -23,9 +23,11 @@ Feel free to reach out if you're in NYC or want to discuss exciting opportunitie
 
 ## GitHub Stats
 
-# <a href="https://github.com/Neel-G-png/Neel-G-png">
-#  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-G-png&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-# </a>
+<!---
+<a href="https://github.com/Neel-G-png/Neel-G-png">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-G-png&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+-->
 
 <a href="https://github.com/Neel-G-png/Talk2Doc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=Talk2Doc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -39,6 +41,6 @@ Feel free to reach out if you're in NYC or want to discuss exciting opportunitie
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=TIFU-KNN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" />
 </a>
 
-<a href="https://github.com/Neel-G-png/NYC-Crash-no-mo c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=NYC-Crash-no-mo &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Neel-G-png/NYC-Crash-no-mo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Neel-G-png&repo=NYC-Crash-no-mo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
