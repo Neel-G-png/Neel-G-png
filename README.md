@@ -1,15 +1,13 @@
 # Welcome to My GitHub! 🌐 
 
-## Introduction
-
-Hello! I'm Neel, a dedicated software engineer with a passion for solving complex problems through innovative technologies. Currently, I’m pursuing my Master’s in Computer Science at New York University, where I’m continuously refining my skills and contributing to impactful projects. With over two years of experience in optimizing systems within the logistics industry, I’ve honed a meticulous approach to improving efficiency and streamlining processes.
+Hello! I'm Neel, a dedicated software engineer with a passion for solving complex problems through innovative technologies. Currently, I’m pursuing my Master’s in Computer Science at New York University, where I’m continuously refining my skills and contributing to impactful projects. With over two years of experience in optimizing systems data intensive applications, I’ve honed a meticulous approach to improving efficiency and streamlining processes.
 
 Originally from Gujarat, India, I’ve transitioned from the tranquil life of Pune to the fast-paced environment of New York City. My journey so far has been one of blending technical expertise with a keen sense of creativity and a drive for continuous improvement.
 
-## Current Focus
+## Current Focus - (Mainly getting a full time job)
 
-- **🔭 Current Projects:** Developing *Jot*, a cutting-edge project management tool, while actively seeking a winter internship and New-Grad roles in 2025 to further expand my skill set.
-- **🌱 Currently Learning:** Diving deep into Go, AWS, and Computer Vision (as a part of my courses this semester) to broaden my programming knowledge and enhance my ability to solve distributed computing challenges.
+- **🔭 Current Projects:** Developing and improving [*Youtalk*](https://youtalk.streamlit.app/), A chatbot that talks to youtube videos.
+- **🌱 Currently Learning:** Diving deep into Go, AWS, and LLMs to broaden my programming knowledge and enhance my ability to solve distributed computing challenges.
 - **👯 Open to Collaborate:** I’m eager to partner on innovative projects that drive meaningful technological change.
 - **🤔 Seeking Guidance:** Exploring best practices and advanced techniques in Go—any insights are greatly appreciated.
 - **💬 Ask Me About:** My experience in logistics optimization, software engineering, or tips on finding the best coffee spots in NYC.
@@ -17,7 +15,7 @@ Originally from Gujarat, India, I’ve transitioned from the tranquil life of Pu
 ## Additional Information
 
 - **😄 Pronouns:** He/him
-- **⚡ Fun Fact:** In addition to coding, I’m an enthusiastic cook—crafting delicious meals is my way of unwinding.
+- **⚡ Fun Fact:** Besides coding, I play a mean game of Table Tennis, have won cooking competitions, and love watching movies.
 
 Feel free to reach out if you're in NYC or want to discuss exciting opportunities. I’m always open to networking and meaningful conversations over coffee! ☕🌆
 
